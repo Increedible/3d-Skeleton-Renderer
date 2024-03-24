@@ -15,7 +15,7 @@ edges = [(1,7),(1,37),(1,43),(2,8),(2,38),(2,44),(3,9),(3,39),(3,45),(4,10),(4,4
 # Set the focal length for the perspective view.
 sizeincrease = 30
 
-# Stel de focale lengte in voor de perspectiefweergave.
+# Set the focal length for the perspective view.
 focallength = 340
 
 # Starting value for the rotation angle.
